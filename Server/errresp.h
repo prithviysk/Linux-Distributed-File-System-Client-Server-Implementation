@@ -1,0 +1,11 @@
+//
+// Created by Anuj Puri on 2024-04-08.
+//
+
+#ifndef FILE_DOWNLOAD_SERVER_ERRRESP_H
+#define FILE_DOWNLOAD_SERVER_ERRRESP_H
+
+#endif //FILE_DOWNLOAD_SERVER_ERRRESP_H
+
+const char* ERR_FILE_NOT_FND = "404";
+const char* ERR_BAD_REQUEST = "500";
